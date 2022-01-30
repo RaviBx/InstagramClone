@@ -24,10 +24,39 @@
             </div>
 
 
+            <div class="pt-4"><b>instagramClone.org</b></div>
+            <div class="pt-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </div>
+            <div><a href="#">www.instaclone.com</a></div>
+
+                
+
         </div>
 
     </div>
 
+    <div class="row pt-5">
+
+
+
+        <div class="col-3">
+
+            <img src="https://images.pexels.com/photos/238480/pexels-photo-238480.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="w-100">
+
+        </div>
+
+        <div class="col-3">
+
+            <img src="https://images.pexels.com/photos/238480/pexels-photo-238480.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="w-100">
+
+        </div>
+
+        <div class="col-3">
+
+            <img src="https://images.pexels.com/photos/238480/pexels-photo-238480.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="w-100">
+
+        </div>
+
+    </div>
 
 </div>
 @endsection
