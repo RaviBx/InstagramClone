@@ -13,7 +13,7 @@
 
         <div class="col-9 pt-5">
 
-            <div><h1>InstagramClone</h1></div>
+            <div><h1>InstaClone</h1></div>
 
             <div class="d-flex">
 
